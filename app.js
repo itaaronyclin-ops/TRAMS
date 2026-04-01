@@ -352,7 +352,7 @@ const App = {
         pendingUploads: {}, // Map<caseId, Array<{tempId, file, fileName, mimeType}>>
         settings: {
             cloudScriptUrl: 'https://script.google.com/macros/s/AKfycbxbKcGqgMBpsvabs_46dqlcKTN1-Mu3yh6wk3L8UmX0ubpVlCGROiD1uXMBRqpfDeLVBw/exec',
-            ssoScriptUrl: 'https://script.google.com/macros/s/AKfycbzsESEXb7JE8iCUFRNTe11GcHO-bZT-LUmAL1pubpTQukFXILe0j_qzdTSes7TXNmrkqw/exec' // 需要使用者部署後更新
+            ssoScriptUrl: 'https://script.google.com/macros/s/AKfycbyRMSRkPJ6BqSBEsijg5tDE4MQ7fmmDrHg0f_3y-beni54P5IdwbMGPjO3ybfZmrr-Yew/exec' // 需要使用者部署後更新
         },
         load() {
             try {
